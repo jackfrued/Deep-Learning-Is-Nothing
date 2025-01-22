@@ -9,9 +9,8 @@
     - PyTorch介绍：张量（Tensor）及基本操作。
     - 搭建一个简单的神经网络模型。
 - **学习资源：**
-    - Deep Learning with Python 1.1 介绍
-    - PyTorch官方文档：Tensor
-    - PyTorch教程：基本操作
+    - 《Deep Learning with Python》第1章
+    - PyTorch官方文档：[Tensors](https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html)
 
 ------
 
@@ -22,8 +21,7 @@
     - 学习PyTorch的自动求导（autograd）。
     - 搭建一个简单的神经网络，学习模型定义和训练流程。
 - **学习资源：**
-    - PyTorch官方文档：Autograd
-    - PyTorch教程：神经网络基础
+    - PyTorch官方文档：[Automatic Differentiation with `torch.autograd`](https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html)
 
 ------
 
@@ -34,8 +32,7 @@
     - 理解前馈神经网络的组成：输入层、隐藏层和输出层。
     - 实现一个简单的前馈神经网络用于分类任务。
 - **学习资源：**
-    - PyTorch教程：神经网络
-    - 《Deep Learning with Python》第二章
+    - 《Deep Learning with Python》第2章
 
 ------
 
@@ -46,8 +43,7 @@
     - 了解常用的损失函数（如交叉熵损失、均方误差）。
     - 了解优化算法（SGD, Adam）以及如何在PyTorch中使用它们。
 - **学习资源：**
-    - PyTorch教程：优化器
-    - Deep Learning with Python 第3章
+    - 《Deep Learning with Python》 第3章
 
 ------
 
@@ -58,8 +54,7 @@
     - 训练一个神经网络进行分类任务。
     - 学习如何调节学习率、批次大小等超参数。
 - **学习资源：**
-    - PyTorch训练流程
-    - Deep Learning with Python 第4章
+    - 《Deep Learning with Python》 第4章
 
 ------
 
@@ -70,8 +65,7 @@
     - 理解卷积神经网络的工作原理：卷积操作、池化操作。
     - 使用CNN进行图像分类任务。
 - **学习资源：**
-    - PyTorch教程：卷积神经网络
-    - Deep Learning with Python 第5章
+    - 《Deep Learning with Python》 第5章
 
 ------
 
@@ -82,7 +76,6 @@
     - 学习VGG、ResNet、Inception等网络架构。
     - 了解如何应用这些网络架构。
 - **学习资源：**
-    - PyTorch迁移学习教程
     - 《Deep Learning with Python》第6章
 
 ------
@@ -94,7 +87,6 @@
     - 使用PyTorch加载预训练模型（如ResNet、VGG）并进行微调。
     - 使用微调模型进行图像分类。
 - **学习资源：**
-    - PyTorch迁移学习教程
     - 《Deep Learning with Python》第7章
 
 ------
@@ -106,8 +98,7 @@
     - 学习RNN、LSTM、GRU的工作原理。
     - 使用RNN进行情感分析任务。
 - **学习资源：**
-    - PyTorch教程：RNN和LSTM
-    - Deep Learning with Python 第8章
+    - 《Deep Learning with Python》 第8章
 
 ------
 
@@ -118,7 +109,6 @@
     - 使用LSTM进行情感分析、文本分类。
     - 学习如何处理文本数据，进行词嵌入和模型训练。
 - **学习资源：**
-    - PyTorch官方文档：NLP任务
     - 《Deep Learning with Python》第9章
 
 ------
@@ -130,8 +120,8 @@
     - 理解Transformer模型的核心思想。
     - 学习Attention机制的作用及应用。
 - **学习资源：**
-    - [Attention Is All You Need论文](https://arxiv.org/abs/1706.03762)
-    - Hugging Face教程
+    - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+    - [Hugging Face教程](https://huggingface.co/docs/transformers/index)
 
 ------
 
@@ -142,7 +132,7 @@
     - 理解BERT和GPT的架构及其在NLP中的应用。
     - 使用预训练的BERT进行文本分类任务。
 - **学习资源：**
-    - Hugging Face BERT教程
+    - Hugging Face教程
     - [GPT模型介绍与实现](https://github.com/openai/gpt-3)
 
 ------
@@ -155,4 +145,4 @@
     - 进行模型训练、评估与优化。
 - 学习资源：
     - [Kaggle竞赛](https://www.kaggle.com/)
-    - PyTorch官方教程合集
+    - PyTorch官方教程
